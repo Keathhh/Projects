@@ -1,0 +1,15 @@
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.csproj.AssemblyReference.cache
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.AssemblyInfoInputs.cache
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.AssemblyInfo.cs
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.csproj.CoreCompileInputs.cache
+/Users/keathape/Projects/CardDemo/CardDemo/bin/Debug/net7.0/CardDemo
+/Users/keathape/Projects/CardDemo/CardDemo/bin/Debug/net7.0/CardDemo.deps.json
+/Users/keathape/Projects/CardDemo/CardDemo/bin/Debug/net7.0/CardDemo.runtimeconfig.json
+/Users/keathape/Projects/CardDemo/CardDemo/bin/Debug/net7.0/CardDemo.dll
+/Users/keathape/Projects/CardDemo/CardDemo/bin/Debug/net7.0/CardDemo.pdb
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.dll
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/refint/CardDemo.dll
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.pdb
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/CardDemo.genruntimeconfig.cache
+/Users/keathape/Projects/CardDemo/CardDemo/obj/Debug/net7.0/ref/CardDemo.dll

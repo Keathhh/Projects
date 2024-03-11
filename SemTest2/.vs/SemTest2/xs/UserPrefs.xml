@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D2149C12-C57E-4D9F-9EE7-F9DA51E6FC49}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemTest2/AverageSummary.cs">
+    <Files>
+      <File FileName="SemTest2/Program.cs" Line="7" Column="52" />
+      <File FileName="SemTest2/DataAnalyser.cs" Line="10" Column="23" />
+      <File FileName="SemTest2/AverageSummary.cs" Line="7" Column="4" />
+      <File FileName="SemTest2/MinMaxSummary.cs" Line="8" Column="1" />
+      <File FileName="SemTest2/program.cs" Line="7" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SemTest2" expanded="True">
+            <Node name="SemTest2" expanded="True">
+              <Node name="AverageSummary.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SemTest2 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

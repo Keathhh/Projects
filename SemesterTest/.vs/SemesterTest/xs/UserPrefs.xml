@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{19D34CD6-8B6E-484C-AB67-D2766837236F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SemesterTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SemesterTest/AverageSummary.cs">
+    <Files>
+      <File FileName="SemesterTest/Program.cs" />
+      <File FileName="SemesterTest/AverageSummary.cs" Line="25" Column="1" />
+      <File FileName="SemesterTest/MinMaxSummary.cs" />
+      <File FileName="SemesterTest/SummaryStrategy.cs" />
+      <File FileName="SemesterTest/DataAnalyser.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SemesterTest" expanded="True">
+            <Node name="SemesterTest" expanded="True">
+              <Node name="AverageSummary.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

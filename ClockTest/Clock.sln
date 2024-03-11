@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockTest", "ClockTest\ClockTest.csproj", "{49FA978F-C7A0-4B91-8775-DFE7D730CBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "Clock\Clock.csproj", "{7B30FC73-8A27-469F-9AD9-1C2F2501C935}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5A8152D2-8874-4A41-8C3F-A4B71DDE2E30}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FA978F-C7A0-4B91-8775-DFE7D730CBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FA978F-C7A0-4B91-8775-DFE7D730CBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FA978F-C7A0-4B91-8775-DFE7D730CBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FA978F-C7A0-4B91-8775-DFE7D730CBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B30FC73-8A27-469F-9AD9-1C2F2501C935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B30FC73-8A27-469F-9AD9-1C2F2501C935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B30FC73-8A27-469F-9AD9-1C2F2501C935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B30FC73-8A27-469F-9AD9-1C2F2501C935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34ED12B-73BC-4750-ACD3-FA12863A1467}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
+EndGlobal

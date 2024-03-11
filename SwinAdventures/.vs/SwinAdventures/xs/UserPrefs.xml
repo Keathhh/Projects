@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E180122D-06FC-4143-8D51-9EA2FCD05E88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinAdventures/Program.cs">
+    <Files>
+      <File FileName="IdentifiableObjectTest/BagTest.cs" />
+      <File FileName="SwinAdventures/Program.cs" Line="31" Column="43" />
+      <File FileName="SwinAdventures/Bag.cs" />
+      <File FileName="SwinAdventures/Player.cs" />
+      <File FileName="SwinAdventures/LookCommand.cs" />
+      <File FileName="SwinAdventures/IdentifiableObject.cs" />
+      <File FileName="SwinAdventures/GameObject.cs" />
+      <File FileName="SwinAdventures/Inventory.cs" />
+      <File FileName="SwinAdventures/Item.cs" />
+      <File FileName="SwinAdventures/IHaveInventory.cs" />
+      <File FileName="SwinAdventures/Command.cs" />
+      <File FileName="IdentifiableObjectTest/IdentifiableObjectTest.cs" />
+      <File FileName="IdentifiableObjectTest/InventoryTest.cs" />
+      <File FileName="IdentifiableObjectTest/ItemTest.cs" />
+      <File FileName="IdentifiableObjectTest/LookCommandTest.cs" />
+      <File FileName="IdentifiableObjectTest/PlayerTest.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SwinAdventures" expanded="True">
+            <Node name="SwinAdventures" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Test" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SwinAdventures" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwinAdventures PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

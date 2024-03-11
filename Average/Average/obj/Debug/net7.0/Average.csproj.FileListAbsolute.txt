@@ -1,0 +1,10 @@
+/Users/keathape/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.AssemblyReference.cache
+/Users/keathape/Projects/Average/Average/obj/Debug/net7.0/Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfoInputs.cache
+/Users/keathape/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfo.cs
+/Users/keathape/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.CoreCompileInputs.cache
+/Users/keath/Downloads/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.AssemblyReference.cache
+/Users/keath/Downloads/Projects/Average/Average/obj/Debug/net7.0/Average.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keath/Downloads/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfoInputs.cache
+/Users/keath/Downloads/Projects/Average/Average/obj/Debug/net7.0/Average.AssemblyInfo.cs
+/Users/keath/Downloads/Projects/Average/Average/obj/Debug/net7.0/Average.csproj.CoreCompileInputs.cache

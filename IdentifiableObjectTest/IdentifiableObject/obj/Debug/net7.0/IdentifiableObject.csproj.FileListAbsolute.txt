@@ -1,0 +1,15 @@
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.deps.json
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.runtimeconfig.json
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.dll
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/bin/Debug/net7.0/IdentifiableObject.pdb
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.csproj.AssemblyReference.cache
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfoInputs.cache
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.AssemblyInfo.cs
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.csproj.CoreCompileInputs.cache
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.dll
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/refint/IdentifiableObject.dll
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.pdb
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/IdentifiableObject.genruntimeconfig.cache
+/Users/keathape/Projects/IdentifiableObjectTest/IdentifiableObject/obj/Debug/net7.0/ref/IdentifiableObject.dll

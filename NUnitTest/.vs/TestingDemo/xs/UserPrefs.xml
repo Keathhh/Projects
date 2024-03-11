@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{58560D7B-2F3B-4990-914D-8C2DEF361FDA}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NUnitTest/TestIdentifiableObject.cs">
+    <Files>
+      <File FileName="NUnitTest/TestIdentifiableObject.cs" Line="17" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestingDemo" expanded="True">
+            <Node name="NUnitTests" expanded="True">
+              <Node name="TestIdentifiableObject.cs" selected="True" />
+            </Node>
+            <Node name="TestingDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TestingDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

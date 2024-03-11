@@ -1,0 +1,5 @@
+/Users/keathape/Projects/Testing/Testing/obj/Debug/net7.0/Testing.csproj.AssemblyReference.cache
+/Users/keathape/Projects/Testing/Testing/obj/Debug/net7.0/Testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/Testing/Testing/obj/Debug/net7.0/Testing.AssemblyInfoInputs.cache
+/Users/keathape/Projects/Testing/Testing/obj/Debug/net7.0/Testing.AssemblyInfo.cs
+/Users/keathape/Projects/Testing/Testing/obj/Debug/net7.0/Testing.csproj.CoreCompileInputs.cache

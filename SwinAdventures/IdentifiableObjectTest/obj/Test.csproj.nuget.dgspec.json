@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/keath/Downloads/Projects/SwinAdventures/IdentifiableObjectTest/Test.csproj": {}
+  },
+  "projects": {
+    "/Users/keath/Downloads/Projects/SwinAdventures/IdentifiableObjectTest/Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keath/Downloads/Projects/SwinAdventures/IdentifiableObjectTest/Test.csproj",
+        "projectName": "Test",
+        "projectPath": "/Users/keath/Downloads/Projects/SwinAdventures/IdentifiableObjectTest/Test.csproj",
+        "packagesPath": "/Users/keath/.nuget/packages/",
+        "outputPath": "/Users/keath/Downloads/Projects/SwinAdventures/IdentifiableObjectTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keath/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/SwinAdventures.csproj": {
+                "projectPath": "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/SwinAdventures.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/SwinAdventures.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/SwinAdventures.csproj",
+        "projectName": "SwinAdventures",
+        "projectPath": "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/SwinAdventures.csproj",
+        "packagesPath": "/Users/keath/.nuget/packages/",
+        "outputPath": "/Users/keath/Downloads/Projects/SwinAdventures/SwinAdventures/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/keath/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

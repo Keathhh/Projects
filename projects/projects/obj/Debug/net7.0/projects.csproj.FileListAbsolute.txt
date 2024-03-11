@@ -1,0 +1,15 @@
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.csproj.AssemblyReference.cache
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.AssemblyInfoInputs.cache
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.AssemblyInfo.cs
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.csproj.CoreCompileInputs.cache
+/Users/keathape/Projects/projects/projects/bin/Debug/net7.0/projects
+/Users/keathape/Projects/projects/projects/bin/Debug/net7.0/projects.deps.json
+/Users/keathape/Projects/projects/projects/bin/Debug/net7.0/projects.runtimeconfig.json
+/Users/keathape/Projects/projects/projects/bin/Debug/net7.0/projects.dll
+/Users/keathape/Projects/projects/projects/bin/Debug/net7.0/projects.pdb
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.dll
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/refint/projects.dll
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.pdb
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/projects.genruntimeconfig.cache
+/Users/keathape/Projects/projects/projects/obj/Debug/net7.0/ref/projects.dll

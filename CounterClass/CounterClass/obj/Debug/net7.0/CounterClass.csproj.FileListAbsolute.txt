@@ -1,0 +1,15 @@
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.csproj.AssemblyReference.cache
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.AssemblyInfoInputs.cache
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.AssemblyInfo.cs
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.csproj.CoreCompileInputs.cache
+/Users/keathape/Projects/CounterClass/CounterClass/bin/Debug/net7.0/CounterClass
+/Users/keathape/Projects/CounterClass/CounterClass/bin/Debug/net7.0/CounterClass.deps.json
+/Users/keathape/Projects/CounterClass/CounterClass/bin/Debug/net7.0/CounterClass.runtimeconfig.json
+/Users/keathape/Projects/CounterClass/CounterClass/bin/Debug/net7.0/CounterClass.dll
+/Users/keathape/Projects/CounterClass/CounterClass/bin/Debug/net7.0/CounterClass.pdb
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.dll
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/refint/CounterClass.dll
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.pdb
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/CounterClass.genruntimeconfig.cache
+/Users/keathape/Projects/CounterClass/CounterClass/obj/Debug/net7.0/ref/CounterClass.dll
